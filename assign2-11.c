@@ -1,3 +1,4 @@
+Write a program to compare two numbers?
 #include<stdio.h>
 int main()
 {

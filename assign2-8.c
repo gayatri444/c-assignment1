@@ -1,4 +1,6 @@
-#include<stdio.h>
+Accept a lowercase character from the user and check whether the character
+is a vowel or consonant.
+ #include<stdio.h>
 int main()
 {
     char ch;
